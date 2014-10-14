@@ -570,4 +570,4 @@
 		w.picturefill = picturefill;
 	}
 
-} )( this, this.document );
+} )( window, document );

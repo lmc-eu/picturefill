@@ -11,5 +11,9 @@
 	"boss": true,
 	"eqnull": true,
 	"node": true,
-	"predef": [ "define", "module" ]
+	"predef": [ "define", "module" ],
+	"globals": {
+		"window": true,
+		"document": true
+	}
 }
